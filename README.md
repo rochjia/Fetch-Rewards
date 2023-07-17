@@ -20,6 +20,8 @@ Afterwards, I analyzed the information within the files to identify entities and
 ### Second: Write a query that directly answers a predetermined question from a business stakeholder
 __Queries_Q2:__ The SQL queries for the second part
 
+The SQL Queries are in the syntax of __MySQL__.
+
 ### Third: Evaluate Data Quality Issues in the Data Provided
 __Script_Q3:__ The Python Notebook script for data quality detection, with insights and suggestions
 
