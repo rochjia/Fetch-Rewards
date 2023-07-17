@@ -7,6 +7,7 @@ This repository is created for the analytical exercise of Data Analyst position 
 
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 __Diagram_Q1__ shows the ER Diagram generated from the JSON file to the relational database format
+
 The approach I took involved a thorough review of the unstructured data in the JSON files and the creation of a new structured relational data model. I analyzed the information within the files to identify entities and their attributes, established relationships between the entities, and defined the tables with appropriate primary keys, foreign keys, and data types.
 Specifically, for table Receipts, I split it into two separate tables: Receipts and itemList, linking them with the id of Receipts.
 
