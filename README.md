@@ -13,12 +13,14 @@ The approach I took involved a thorough review of the unstructured data in the J
 Afterwards, I analyzed the information within the files to identify entities and their attributes, established relationships between the entities, and defined the tables with appropriate primary keys, foreign keys, and data types, eventually established a table relationship diagram around table Receipts:
 
 - Receipts & Users: linked by id of Users
-- Receipts & Brands: linked by barcode
+- itemList & Brands: linked by barcode
 - Receipts & itemList: linked by id of Receipts
 
 
 ### Second: Write a query that directly answers a predetermined question from a business stakeholder
 __Queries_Q2:__ The SQL queries for the second part
+
+For this part, requests in Question 1 & 2, 3 & 4, 5 & 6 can be integrated into 3 queries, respectively, to reduce repetitive work. Please check my SQL code for detail.
 
 The SQL Queries are in the syntax of __MySQL__.
 
