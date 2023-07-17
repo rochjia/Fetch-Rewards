@@ -1,7 +1,7 @@
 # Fetch Rewards Data Analyst Exercise
 __Author:__ Runqing Jia
 
-__Last Modified:__ Jul 14, 2023
+__Last Modified:__ Jul 16, 2023
 
 This repository is created for the analytical exercise of Data Analyst position at Fetch Rewards.
 
